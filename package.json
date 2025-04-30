@@ -1,0 +1,21 @@
+{
+  "name": "projektfas2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "next": "^15.3.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "22.15.3",
+    "@types/react": "^19.1.2",
+    "typescript": "5.8.3"
+  }
+}
